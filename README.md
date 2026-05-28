@@ -2,7 +2,7 @@
 
 Proyecto desarrollado como Trabajo de Fin de Grado (TFG) basado en un sistema IoT para la monitorización y automatización de un invernadero utilizando un microcontrolador ESP32.
 
----
+
 
 ## Descripción del proyecto
 
@@ -10,7 +10,7 @@ El sistema permite capturar datos ambientales en tiempo real mediante distintos 
 
 Además, el sistema permite accionar actuadores como una bomba de agua y un ventilador para automatizar el riego y la ventilación del invernadero.
 
----
+
 
 ## Tecnologías utilizadas
 
@@ -21,7 +21,7 @@ Además, el sistema permite accionar actuadores como una bomba de agua y un vent
 * WiFi
 * JSON
 
----
+
 
 ## Sensores utilizados
 
@@ -29,14 +29,14 @@ Además, el sistema permite accionar actuadores como una bomba de agua y un vent
 * BH1750 → Intensidad lumínica
 * Sensor capacitivo 2.0 → Humedad del suelo
 
----
+
 
 ## Actuadores
 
 * Bomba de agua mediante relé
 * Ventilador mediante relé
 
----
+
 
 ## Funcionamiento del sistema
 
@@ -47,7 +47,6 @@ Además, el sistema permite accionar actuadores como una bomba de agua y un vent
 5. Node-RED recibe y visualiza la información.
 6. El sistema permite activar remotamente los actuadores.
 
----
 
 ## Estructura del proyecto
 
@@ -56,7 +55,7 @@ Además, el sistema permite accionar actuadores como una bomba de agua y un vent
 /README.md
 ```
 
----
+
 
 ## Compilación y carga
 
@@ -71,13 +70,13 @@ Además, el sistema permite accionar actuadores como una bomba de agua y un vent
 4. Configurar SSID y contraseña WiFi.
 5. Compilar y cargar el programa al ESP32.
 
----
+
 
 ## Proyecto académico
 
 Este repositorio forma parte de un Trabajo de Fin de Grado orientado al desarrollo de soluciones IoT aplicadas a la automatización agrícola.
 
----
+
 
 ## Autor
 
